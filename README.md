@@ -1,0 +1,1 @@
+Podpora k předmětu APPS
