@@ -1,18 +1,5 @@
 <h1>Registry</H1>
 
-    <style>
-        table {
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 2px solid black;
-        }
-	th {
-	    background-color:#0000AA;
-	}
-    </style>
-
-
 <figure class="table">
     <table>
         <thead>

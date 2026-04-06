@@ -1,17 +1,3 @@
-<style>
-    table {
-        border-collapse: collapse;
-    }
-    th, td {
-        border: 2px solid black;
-        padding: 4px 8px;
-    }
-    th {
-        background-color:#0000AA;
-        color: white;
-    }
-</style>
-
 <h1>I2C protokol</h1>
 
 <figure class="table">
